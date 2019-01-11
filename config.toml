@@ -100,16 +100,16 @@ paginate = 10
     logo = "img/logo.png"
     logo_small = "img/logo-small.png"
     address = """<p><strong>Universal Ltd.</strong>
-        <br>13/25 New Avenue
-        <br>Newtown upon River
+        <br>Rua Oscar Freire, 225
+        <br>conjunto 710
         <br>45Y 73J
         <br>England
         <br>
         <strong>Great Britain</strong>
       </p>
       """
-    latitude = "-12.043333"
-    longitude = "-77.028333"
+    latitude = "-23.5528472"
+    longitude = "-46.6783078"
 
 [Permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
@@ -117,7 +117,7 @@ paginate = 10
 # Enable or disable top bar with social icons
 [params.topbar]
     enable = true
-    text = """<p class="hidden-sm hidden-xs">Contact us on +420 777 555 333 or hello@universal.com.</p>
+    text = """<p class="hidden-sm hidden-xs">Contato: 11 2503-1354 ou 11 97329-0515 (WhatsApp)</p>
       <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fa fa-phone"></i></a>
       <a href="#" data-animate-hover="pulse"><i class="fa fa-envelope"></i></a>
       </p>
