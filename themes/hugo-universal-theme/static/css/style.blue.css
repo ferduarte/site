@@ -1962,7 +1962,7 @@ fieldset[disabled] .btn-template-primary.active {
   line-height: 15px;
 }
 #map {
-  height: 300px;
+  height: 500px;
 }
 #map.with-border {
   border-top: solid 1px #467fbf;
